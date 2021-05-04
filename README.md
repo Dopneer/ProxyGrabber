@@ -7,3 +7,7 @@
 2. Run app:
 	+ Go to main folder (ProxyGrabber)
 	+ ```node main.js```
+
+
+To close the application use ```Ctrl + C``` into terminal
+All proxies will be save into proxies.txt
